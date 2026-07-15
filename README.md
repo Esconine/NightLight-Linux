@@ -10,7 +10,7 @@ A Proprietary [Night Light](https://nightlight.gg/) client for Dead by Daylight 
 </div>
 
 > [!IMPORTANT]
-> Works only on Arch and Arch-based distributions (SteamOS, CachyOS, EndeavourOS, Manjaro, Garuda, Artix and etc)
+> Works only on SteamDeck, Arch and Arch-based distributions (SteamOS, CachyOS, EndeavourOS, Manjaro, Garuda, Artix and etc)
 
 ## Installation
 > [!WARNING]
