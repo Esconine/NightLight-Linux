@@ -5,7 +5,7 @@ pkgrel=1
 pkgdesc='A Proprietary Nightlight client for Dead by Daylight match stats tracking, custom icons and tools'
 arch=('x86_64')
 url='https://nightlight.gg/'
-license=('custom:proprietary')
+license=('GPL-3.0-only')
 depends=('glibc' 'zlib' 'hicolor-icon-theme')
 
 source=(
