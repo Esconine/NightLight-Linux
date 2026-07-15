@@ -1,8 +1,8 @@
 # NightLight-Linux
-A Proprietary Nightlight client for Dead by Daylight match stats tracking, custom icons and tools.
+A Proprietary ['Night Light'](https://nightlight.gg/) client for Dead by Daylight match stats tracking, custom icons and tools.
 
 > [!IMPORTANT]
-> Works only on Arch and Arch-based distributions
+> Works only on Arch and Arch-based distributions (SteamOS, CachyOS, EndeavourOS, Manjaro, Garuda, Artix and etc)
 
 ## Installation (Arch Linux)
 > [!NOTE]
