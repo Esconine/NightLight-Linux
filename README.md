@@ -1,5 +1,5 @@
 # Night Light for Arch Linux
-A Proprietary [Night Light](https://nightlight.gg/) client for Dead by Daylight match stats tracking, custom icons and tools.
+The [Night Light](https://nightlight.gg/) client for Dead by Daylight match stats tracking, custom icons and tools.
 
 <div align="center"> 
 
