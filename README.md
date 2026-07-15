@@ -26,13 +26,13 @@ The [Night Light](https://nightlight.gg/) client for Dead by Daylight match stat
 > makepkg -si
 > ```
 
-Install the application from the AUR, if you use yay just run in terminal:
+Install the application from the AUR, if you use "yay" - just run in terminal:
 
 ```
 yay -S nightlight-desktop-bin
 ```
 
-OR if you use paru run:
+OR if you use "paru" - run in terminal:
 
 ```
 paru -S nightlight-desktop-bin
