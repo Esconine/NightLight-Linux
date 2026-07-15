@@ -57,9 +57,19 @@ makepkg -si
 
 ## Usage
 1. Register on https://nightlight.gg/
+
 2. Open the Night Light application and login
+
 <img width="1920" height="1080" alt="Screenshot_20260715_190252" src="https://github.com/user-attachments/assets/7bd04a4b-abe4-4063-9adc-44b6c06364a0" />
+
 3. Open the Steam and right click on Dead by Daylight > Manage > Browse local files
+
 <img width="1920" height="1080" alt="Screenshot_20260715_190726" src="https://github.com/user-attachments/assets/bc09b1cb-c7b1-4e1f-bcea-7c9349484d71" />
-4. Copy the path and paste it in the Night Light's Settings (basically it is "~/.local/share/Steam/steamapps/common/Dead by Daylight")
+
+4. Copy the path and paste it in the Night Light's Settings, basically it's:
+
+```
+~/.local/share/Steam/steamapps/common/Dead by Daylight
+```
+
 <img width="1920" height="1080" alt="Screenshot_20260715_191053" src="https://github.com/user-attachments/assets/1ec48fe3-7bee-4b41-a6bb-849877e149ae" />
