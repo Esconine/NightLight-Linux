@@ -56,6 +56,7 @@ makepkg -si
 ```
 
 ## Usage
+
 1. Register on https://nightlight.gg/
 
 2. Open the Night Light application and login
