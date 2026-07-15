@@ -2,7 +2,7 @@
 pkgname=nightlight-desktop-bin
 pkgver=1.0.0
 pkgrel=1
-pkgdesc='The Nightlight client for Dead by Daylight match stats tracking, custom icons and tools'
+pkgdesc='The Night Light client for Dead by Daylight match stats tracking, custom icons and tools'
 arch=('x86_64')
 url='https://nightlight.gg/'
 license=('GPL-3.0-only')
