@@ -1,10 +1,12 @@
 # NightLight-Linux
 A Proprietary Nightlight client for Dead by Daylight match stats tracking, custom icons and tools.
 
-Works only on Arch and Arch-based distributions ‼️
+> [!IMPORTANT]
+> Works only on Arch and Arch-based distributions
 
 ## Installation (Arch Linux)
-This method is still not working so follow the manual installation ‼️
+> [!NOTE]
+> This method is still not working so follow the manual installation
 
 Make sure you have an aur helper installed, if not so install it by running:
 
