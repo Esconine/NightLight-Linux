@@ -1,0 +1,8 @@
+[Desktop Entry]
+Categories=Game;Utility;
+Name=Night Light
+Comment=A Proprietary NightLight client for Dead by Daylight match stats tracking, custom icons and tools
+Exec=nightlight-desktop
+Icon=nightlight-desktop
+Type=Application
+Terminal=false
