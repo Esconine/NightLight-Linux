@@ -3,7 +3,9 @@ A Proprietary [Night Light](https://nightlight.gg/) client for Dead by Daylight 
 
 <div align="center"> 
 
-![Static Badge](https://img.shields.io/badge/Arch%20Linux?logo=http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&logoColor=D9E0EE&labelColor=1E202B&color=8ad7eb&link=https%3A%2F%2Farchlinux.org%2F)
+
+<a href="https://archlinux.org/"> <img src="https://img.shields.io/badge/Arch%20Linux-white?style=for-the-badge&logo=archlinux&logoColor=D9E0EE&labelColor=1E202B&color=8ad7eb&link=https%3A%2F%2Farchlinux.org%2F
+"> </a>
 
 </div>
 
