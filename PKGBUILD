@@ -16,7 +16,7 @@ source=(
 
 sha256sums=('2b4268de2d54dd62b9bf4ddd60f9a52e4147c2a066fd72d1d991426d7b31f67b'
             'fe4f373b60f792c8e3c9b5146c14b49186155bb4b948bd030abe6e08c26aa4e7'
-            '7a755899e6dd2dd7e4145a062069cf0929e2f4ca89463499b1cab42b58e82445')
+            'e19f72806448f1017b5fdd61cf5da4e150fff7e73870ee941bc1adc5ac0f28b4')
 
 package() {
     install -d "${pkgdir}/usr/bin"
