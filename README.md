@@ -38,7 +38,7 @@ OR if you use "paru" - run in terminal:
 paru -S nightlight-desktop-bin
 ```
 
-## Manual Installation
+## Manual Installation (Recommended)
 
 > [!NOTE]
 > Make sure you have the base-devel and git installed, if not so install it by running:
