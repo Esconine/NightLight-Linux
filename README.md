@@ -14,7 +14,7 @@ The [Night Light](https://nightlight.gg/) client for Dead by Daylight match stat
 
 ## Installation
 > [!WARNING]
-> This method is still not working so follow the ![manual installation](https://github.com/Esconine/NightLight-Linux/tree/main#manual-installation-recommended)
+> This method is still not working so follow the [Manual Installation](https://github.com/Esconine/NightLight-Linux/tree/main#manual-installation-recommended)
 
 > [!NOTE]
 > Make sure you have an aur helper installed, if not so install it by running:
