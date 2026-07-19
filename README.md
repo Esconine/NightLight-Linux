@@ -61,6 +61,12 @@ If you want to uninstall the Night Light and all its dependencies run in the ter
 sudo pacman -Rns nightlight-desktop-bin nightlight-desktop-bin-debug && rm -rf ~/NightLight-Linux
 ```
 
+OR:
+
+```
+cd ~/NightLight-Linux && chmod +x uninstall.sh && sudo ./uninstall.sh
+```
+
 ## Usage
 
 1. Register on https://nightlight.gg/
