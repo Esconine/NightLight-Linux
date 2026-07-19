@@ -55,6 +55,14 @@ cd NightLight-Linux
 makepkg -si
 ```
 
+## Uninstallation
+
+If you want to uninstall Night Light and all its dependencies run in terminal:
+
+```
+sudo pacman -Rns nightlight-desktop-bin nightlight-desktop-bin-debug && rm -rf ~/NightLight-Linux
+```
+
 ## Usage
 
 1. Register on https://nightlight.gg/
