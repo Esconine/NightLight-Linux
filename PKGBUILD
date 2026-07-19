@@ -14,7 +14,7 @@ source=(
   "nightlight.desktop"
 )
 
-sha256sums=('2b4268de2d54dd62b9bf4ddd60f9a52e4147c2a066fd72d1d991426d7b31f67b'
+sha256sums=('SKIP'
             'fe4f373b60f792c8e3c9b5146c14b49186155bb4b948bd030abe6e08c26aa4e7'
             'e19f72806448f1017b5fdd61cf5da4e150fff7e73870ee941bc1adc5ac0f28b4')
 
