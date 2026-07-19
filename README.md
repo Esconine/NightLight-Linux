@@ -50,9 +50,7 @@ paru -S nightlight-desktop-bin
 Then install the Night Light by running:
 
 ```
-git clone https://github.com/Esconine/NightLight-Linux.git
-cd NightLight-Linux
-makepkg -si
+git clone https://github.com/Esconine/NightLight-Linux.git && cd NightLight-Linux && makepkg -si
 ```
 
 ## Uninstallation
