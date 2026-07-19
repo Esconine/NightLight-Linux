@@ -17,7 +17,7 @@ The [Night Light](https://nightlight.gg/) client for Dead by Daylight match stat
 > This method is still not working so follow the [Manual Installation](https://github.com/Esconine/NightLight-Linux/tree/main#manual-installation-recommended)
 
 > [!NOTE]
-> Make sure you have an aur helper installed, if not so install it by running:
+> Make sure you have an aur helper installed, if not so install it by running in the terminal:
 >
 > ```
 > sudo pacman -S --needed base-devel git
@@ -26,13 +26,13 @@ The [Night Light](https://nightlight.gg/) client for Dead by Daylight match stat
 > makepkg -si
 > ```
 
-Install the application from the AUR, if you use "yay" - just run in terminal:
+Install the application from the AUR, if you use "yay" - just run in the terminal:
 
 ```
 yay -S nightlight-desktop-bin
 ```
 
-OR if you use "paru" - run in terminal:
+OR if you use "paru" - run in the terminal:
 
 ```
 paru -S nightlight-desktop-bin
@@ -41,13 +41,13 @@ paru -S nightlight-desktop-bin
 ## Manual Installation (Recommended)
 
 > [!NOTE]
-> Make sure you have the base-devel and git installed, if not so install it by running:
+> Make sure you have the base-devel and git installed, if not so install it by running in the terminal:
 >
 > ```
 > sudo pacman -S --needed base-devel git
 > ```
 
-Then install the Night Light by running:
+Then install the Night Light by running in the terminal:
 
 ```
 git clone https://github.com/Esconine/NightLight-Linux.git && cd NightLight-Linux && makepkg -si
@@ -55,7 +55,7 @@ git clone https://github.com/Esconine/NightLight-Linux.git && cd NightLight-Linu
 
 ## Uninstallation
 
-If you want to uninstall the Night Light and all its dependencies run in terminal:
+If you want to uninstall the Night Light and all its dependencies run in the terminal:
 
 ```
 sudo pacman -Rns nightlight-desktop-bin nightlight-desktop-bin-debug && rm -rf ~/NightLight-Linux
