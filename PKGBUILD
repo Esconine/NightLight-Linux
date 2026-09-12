@@ -6,7 +6,7 @@ pkgdesc='The Night Light client for Dead by Daylight match stats tracking, custo
 arch=('x86_64')
 url='https://nightlight.gg/'
 license=('GPL-3.0-only')
-depends=('glibc' 'zlib' 'hicolor-icon-theme')
+depends=('glibc' 'zlib' 'hicolor-icon-theme' 'webkit2gtk-4.1')
 
 source=(
   "nightlight-linux-amd64::https://update.nightlight.gg/desktop/latest/linux"
@@ -14,7 +14,7 @@ source=(
   "nightlight.desktop"
 )
 
-sha256sums=('2b4268de2d54dd62b9bf4ddd60f9a52e4147c2a066fd72d1d991426d7b31f67b'
+sha256sums=('248b2dfc03aa9c01661736fbff748589f0ac9d386311bb493b5b9394588003ff'
             'fe4f373b60f792c8e3c9b5146c14b49186155bb4b948bd030abe6e08c26aa4e7'
             'e19f72806448f1017b5fdd61cf5da4e150fff7e73870ee941bc1adc5ac0f28b4')
 
